@@ -1,3 +1,11 @@
+/**
+ * class: StringComparisonAndConcatenation
+ * @author: Isaiah Jimenez
+ * @version: 1.0
+ * @written on: October 20, 2023
+ * @Course: ITEC 2140 Fall 2023
+ * description: This is a program written in Java
+ */
 import java.util.Scanner; // Importing the Scanner class to read user input
 
 public class StringComparisonAndConcatenation {

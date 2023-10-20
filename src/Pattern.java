@@ -1,3 +1,11 @@
+/**
+ * class: Pattern
+ * @author: Isaiah Jimenez
+ * @version: 1.0
+ * @written on: October 20, 2023
+ * @Course: ITEC 2140 Fall 2023
+ * description: This is a program written in Java
+ */
 public class Pattern {
     public static void main(String[] args) {
         // Define the number of rows in the pattern
